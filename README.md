@@ -9,14 +9,15 @@ Case Studies: Real-world scenarios that integrate multiple SQL concepts to solve
 README File: Provides detailed explanations of each concept, step-by-step guides, and insights into the code examples.
 
 Concepts Covered
-1.Basic SQL Queries
-2.Data Manipulation (INSERT, UPDATE, DELETE)
-3.Data Retrieval (SELECT, WHERE, ORDER BY)
-4.Aggregate Functions (COUNT, SUM, AVG, etc.)
-5.Joins (INNER, LEFT, RIGHT, FULL)
-6.Subqueries and Nested Queries
-7.Data Definition (CREATE, ALTER, DROP)
+1.Database fundamentals 
+2.Data Definition (CREATE, ALTER, DROP)
+3.Data Manipulation (INSERT, UPDATE, DELETE)
+
+4.Data Retrieval (SELECT, WHERE, ORDER BY)
+5.Aggregate Functions (COUNT, SUM, AVG, etc.)
+6.Joins (INNER, LEFT, RIGHT, FULL)
+7.Subqueries and Nested Queries
 8.Indexes and Views
-9.Transactions and Concurrency
-10.Stored Procedures and Functions
-11.Optimization Techniques
+10.Transactions and Concurrency
+11.Stored Procedures and Functions
+12.Optimization Techniques
